@@ -64,8 +64,6 @@ tree.root.left.right = Node("data")
 
 tree.root.right.right = Node("algorithms")
 
-
-# Wrapper function required by question
 def dean_msg(order):
     return tree.dean_msg(order)
 
